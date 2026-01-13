@@ -86,3 +86,4 @@ Overall, patient diagnoses in the dataset span from 2015 to 2025, providing a de
   This project was guided by Isaac Emmanuel's YouTube tutorial on brain tumor data analysis. For more detailed walkthroughs and guided projects, you can check out his page.
 
   ## Dashboard Preview
+![](https://github.com/Lucky-ogolo/Brain-Tumor-Distribution-Analysis/blob/2bb72c350a435928ec90c078f1dde2ff06615070/Screenshot%202026-01-13%20032747.png)
