@@ -35,6 +35,7 @@ Minimal data cleaning was required. Measures and formulas were created for:
 - **Power BI** – Data modeling, measures creation, and interactive dashboard development  
 - **Power Query** – Data transformation and preparation  
 - **Power Point** - Dahboard background layout
+- YouTube - Tutorial from analyst isaac emmanuel
 
   ## 📊Dashboard Overview
   The dashboard was built in power BI and featuures:
