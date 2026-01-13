@@ -31,6 +31,11 @@ Minimal data cleaning was required. Measures and formulas were created for:
 - Age group
 - Most affected age group
 
+## 🛠 Tools Used
+- **Power BI** – Data modeling, measures creation, and interactive dashboard development  
+- **Power Query** – Data transformation and preparation  
+- **Powe Point** - Dahboard background layout
+
   ## 📊Dashboard Overview
   The dashboard was built in power BI and featuures:
   ### Metrics
