@@ -87,6 +87,11 @@ Minimal data cleaning was required. Measures and formulas were created for:
 
 ## 📅 Diagnosis Timeline
 Overall, patient diagnoses in the dataset span from 2015 to 2025, providing a decade-long view of brain tumor trends across all grades.
+
+## 🧬 Analytical Observations
+- Tumor characteristics such as affected brain region and age distribution vary significantly by tumor grade.
+- Lower-grade tumors tend to affect older age groups, while higher-grade tumors show increased prevalence in younger populations.
+- Diagnosis trends over time suggest periods of increased detection rather than uniform annual distribution.
  
   ## 🙏Acknowledgment
   This project was guided by Isaac Emmanuel's YouTube tutorial on brain tumor data analysis. For more detailed walkthroughs and guided projects, you can check out his page.
