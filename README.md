@@ -94,3 +94,5 @@ Overall, patient diagnoses in the dataset span from 2015 to 2025, providing a de
   ## Dashboard Preview
   
   ![BrainAnalysisDashboardImage](https://github.com/Lucky-ogolo/Brain-Tumor-Distribution-Analysis/blob/2bb72c350a435928ec90c078f1dde2ff06615070/Screenshot%202026-01-13%20032747.png)
+
+  ![](https://github.com/Lucky-ogolo/Brain-Tumor-Distribution-Analysis/blob/d170c0d2928c49dbe1b7017f7f5adb6a2f4a943e/Dashboard2.png)
