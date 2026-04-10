@@ -3,6 +3,10 @@
 
 This project analyzes brain tumor patients data to explore patterns in tumor distribution, patient demographics, and treatment types. Using the datasets provided in the guided tutorial by Isaac Emmanuel, a dashboard was created to visualize key metrics and trends interactively. The purpose of this project is to gain insights into brain tumor characteristics and patient demographics, while practicing data analysis, visualization, and dashboard design in Power BI.The date of diagnosis in the dataset ranges from 2015 to 2025.
 
+ ![BrainAnalysisDashboardImage](https://github.com/Lucky-ogolo/Brain-Tumor-Distribution-Analysis/blob/2bb72c350a435928ec90c078f1dde2ff06615070/Screenshot%202026-01-13%20032747.png)
+
+  ![](https://github.com/Lucky-ogolo/Brain-Tumor-Distribution-Analysis/blob/d170c0d2928c49dbe1b7017f7f5adb6a2f4a943e/Dashboard2.png)
+
 ## 🗃️Dataset
 The analysis uses two main datasets:
 1. **brain_tumor_data**
@@ -96,11 +100,6 @@ Overall, patient diagnoses in the dataset span from 2015 to 2025, providing a de
   ## 🙏Acknowledgment
   This project was guided by Isaac Emmanuel's YouTube tutorial on brain tumor data analysis. For more detailed walkthroughs and guided projects, you can check out his page.
 
-  ## Dashboard Preview
-  
-  ![BrainAnalysisDashboardImage](https://github.com/Lucky-ogolo/Brain-Tumor-Distribution-Analysis/blob/2bb72c350a435928ec90c078f1dde2ff06615070/Screenshot%202026-01-13%20032747.png)
-
-  ![](https://github.com/Lucky-ogolo/Brain-Tumor-Distribution-Analysis/blob/d170c0d2928c49dbe1b7017f7f5adb6a2f4a943e/Dashboard2.png)
 
 ## 🤝 Let’s Connect
   
